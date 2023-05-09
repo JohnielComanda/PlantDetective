@@ -1,0 +1,1 @@
+Plant Detective is a mobile application project that can take a picture of any plant and the app will identify if the plant is edible or no. It will then display the information of the plant, including its name, nutritional value, and other important information..
