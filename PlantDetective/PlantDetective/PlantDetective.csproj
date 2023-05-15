@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net7.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>21</SupportedOSPlatformVersion>
+    <OutputType>Exe</OutputType>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationId>com.companyname.PlantDetective</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Resources\drawable\addIcon.png" />
+    <None Remove="Resources\drawable\cameraIcon.png" />
+    <None Remove="Resources\drawable\circleIcon.png" />
+    <None Remove="Resources\drawable\galleryIcon.png" />
+    <None Remove="Resources\drawable\heartIcon.png" />
+    <None Remove="Resources\drawable\homeIcon.png" />
+    <None Remove="Resources\drawable\lowerDesign.png" />
+    <None Remove="Resources\drawable\searchIcon.png" />
+    <None Remove="Resources\drawable\upperDesign.png" />
+    <None Remove="Resources\layout\HomePage.xml" />
+    <None Remove="Resources\layout\TakePicturePage.xml" />
+    <None Remove="Resources\mipmap-hdpi\splashScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Xamarin.Essentials" Version="1.7.5" />
+  </ItemGroup>
+</Project>
