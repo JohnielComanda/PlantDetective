@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming Files\\PlantDetective\\PlantDetective\\PlantDetective.csproj": {}
+    "C:\\Users\\Johniel\\Desktop\\PlantDetective\\PlantDetective\\PlantDetective\\PlantDetective.csproj": {}
   },
   "projects": {
-    "D:\\Programming Files\\PlantDetective\\PlantDetective\\PlantDetective.csproj": {
+    "C:\\Users\\Johniel\\Desktop\\PlantDetective\\PlantDetective\\PlantDetective\\PlantDetective.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming Files\\PlantDetective\\PlantDetective\\PlantDetective.csproj",
+        "projectUniqueName": "C:\\Users\\Johniel\\Desktop\\PlantDetective\\PlantDetective\\PlantDetective\\PlantDetective.csproj",
         "projectName": "PlantDetective",
-        "projectPath": "D:\\Programming Files\\PlantDetective\\PlantDetective\\PlantDetective.csproj",
-        "packagesPath": "C:\\Users\\Robert\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming Files\\PlantDetective\\PlantDetective\\obj\\",
+        "projectPath": "C:\\Users\\Johniel\\Desktop\\PlantDetective\\PlantDetective\\PlantDetective\\PlantDetective.csproj",
+        "packagesPath": "C:\\Users\\Johniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Johniel\\Desktop\\PlantDetective\\PlantDetective\\PlantDetective\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Robert\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Johniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,28 +65,11 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.Android": {
-              "privateAssets": "all"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "android-arm": {
-          "#import": []
-        },
-        "android-arm64": {
-          "#import": []
-        },
-        "android-x64": {
-          "#import": []
-        },
-        "android-x86": {
-          "#import": []
         }
       }
     }
