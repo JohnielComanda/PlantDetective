@@ -2,9 +2,12 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <SelectedDevice>pixel_5_-_api_33</SelectedDevice>
-    <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
-    <ActiveDebugProfile>Pixel 5 - API 33 (Android 13.0 - API 33)</ActiveDebugProfile>
+    <SelectedPlatformGroup>PhysicalDevice</SelectedPlatformGroup>
+    <ActiveDebugProfile>Xiaomi M2101K9AG</ActiveDebugProfile>
     <DefaultDevice>pixel_5_-_api_33</DefaultDevice>
-    <AndroidDesignerPreferredDevice>pixel_3a</AndroidDesignerPreferredDevice>
+    <AndroidDesignerPreferredDevice>pixel_3</AndroidDesignerPreferredDevice>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

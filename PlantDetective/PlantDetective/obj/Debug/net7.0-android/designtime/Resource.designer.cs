@@ -634,85 +634,91 @@ namespace PlantDetective
 			public const int icon_group = 2131034165;
 			
 			// aapt resource value: 0x7F050036
-			public const int info = 2131034166;
+			public const int identify = 2131034166;
 			
 			// aapt resource value: 0x7F050037
-			public const int italic = 2131034167;
+			public const int info = 2131034167;
 			
 			// aapt resource value: 0x7F050038
-			public const int line1 = 2131034168;
+			public const int italic = 2131034168;
 			
 			// aapt resource value: 0x7F050039
-			public const int line3 = 2131034169;
+			public const int line1 = 2131034169;
 			
 			// aapt resource value: 0x7F05003A
-			public const int lowerDesign = 2131034170;
+			public const int line3 = 2131034170;
 			
 			// aapt resource value: 0x7F05003B
-			public const int normal = 2131034171;
+			public const int lowerDesign = 2131034171;
 			
 			// aapt resource value: 0x7F05003C
-			public const int notification_background = 2131034172;
+			public const int normal = 2131034172;
 			
 			// aapt resource value: 0x7F05003D
-			public const int notification_main_column = 2131034173;
+			public const int notification_background = 2131034173;
 			
 			// aapt resource value: 0x7F05003E
-			public const int notification_main_column_container = 2131034174;
+			public const int notification_main_column = 2131034174;
 			
 			// aapt resource value: 0x7F05003F
-			public const int right_icon = 2131034175;
+			public const int notification_main_column_container = 2131034175;
 			
 			// aapt resource value: 0x7F050040
-			public const int right_side = 2131034176;
+			public const int picture = 2131034176;
 			
 			// aapt resource value: 0x7F050041
-			public const int start = 2131034177;
+			public const int right_icon = 2131034177;
 			
 			// aapt resource value: 0x7F050042
-			public const int tag_accessibility_actions = 2131034178;
+			public const int right_side = 2131034178;
 			
 			// aapt resource value: 0x7F050043
-			public const int tag_accessibility_clickable_spans = 2131034179;
+			public const int start = 2131034179;
 			
 			// aapt resource value: 0x7F050044
-			public const int tag_accessibility_heading = 2131034180;
+			public const int tag_accessibility_actions = 2131034180;
 			
 			// aapt resource value: 0x7F050045
-			public const int tag_accessibility_pane_title = 2131034181;
+			public const int tag_accessibility_clickable_spans = 2131034181;
 			
 			// aapt resource value: 0x7F050046
-			public const int tag_screen_reader_focusable = 2131034182;
+			public const int tag_accessibility_heading = 2131034182;
 			
 			// aapt resource value: 0x7F050047
-			public const int tag_transition_group = 2131034183;
+			public const int tag_accessibility_pane_title = 2131034183;
 			
 			// aapt resource value: 0x7F050048
-			public const int tag_unhandled_key_event_manager = 2131034184;
+			public const int tag_screen_reader_focusable = 2131034184;
 			
 			// aapt resource value: 0x7F050049
-			public const int tag_unhandled_key_listeners = 2131034185;
+			public const int tag_transition_group = 2131034185;
 			
 			// aapt resource value: 0x7F05004A
-			public const int takePictureIcon = 2131034186;
+			public const int tag_unhandled_key_event_manager = 2131034186;
 			
 			// aapt resource value: 0x7F05004B
-			public const int text = 2131034187;
+			public const int tag_unhandled_key_listeners = 2131034187;
 			
 			// aapt resource value: 0x7F05004C
-			public const int text2 = 2131034188;
+			public const int takePictureIcon = 2131034188;
 			
 			// aapt resource value: 0x7F05004D
-			public const int time = 2131034189;
+			public const int text = 2131034189;
 			
 			// aapt resource value: 0x7F05004E
-			public const int title = 2131034190;
+			public const int text2 = 2131034190;
 			
 			// aapt resource value: 0x7F05004F
-			public const int upperDesign = 2131034191;
+			public const int time = 2131034191;
 			
 			// aapt resource value: 0x7F050050
-			public const int view_tree_lifecycle_owner = 2131034192;
+			public const int title = 2131034192;
+			
+			// aapt resource value: 0x7F050051
+			public const int upperDesign = 2131034193;
+			
+			// aapt resource value: 0x7F050052
+			public const int view_tree_lifecycle_owner = 2131034194;
 			
 			static Id()
 			{
@@ -756,28 +762,31 @@ namespace PlantDetective
 			public const int custom_dialog = 2131165187;
 			
 			// aapt resource value: 0x7F070004
-			public const int HomePage = 2131165188;
+			public const int DisplayInformation = 2131165188;
 			
 			// aapt resource value: 0x7F070005
-			public const int notification_action = 2131165189;
+			public const int HomePage = 2131165189;
 			
 			// aapt resource value: 0x7F070006
-			public const int notification_action_tombstone = 2131165190;
+			public const int notification_action = 2131165190;
 			
 			// aapt resource value: 0x7F070007
-			public const int notification_template_custom_big = 2131165191;
+			public const int notification_action_tombstone = 2131165191;
 			
 			// aapt resource value: 0x7F070008
-			public const int notification_template_icon_group = 2131165192;
+			public const int notification_template_custom_big = 2131165192;
 			
 			// aapt resource value: 0x7F070009
-			public const int notification_template_part_chronometer = 2131165193;
+			public const int notification_template_icon_group = 2131165193;
 			
 			// aapt resource value: 0x7F07000A
-			public const int notification_template_part_time = 2131165194;
+			public const int notification_template_part_chronometer = 2131165194;
 			
 			// aapt resource value: 0x7F07000B
-			public const int TakePicturePage = 2131165195;
+			public const int notification_template_part_time = 2131165195;
+			
+			// aapt resource value: 0x7F07000C
+			public const int TakePicturePage = 2131165196;
 			
 			static Layout()
 			{

@@ -1,3 +1,7 @@
+using static Android.Telephony.CarrierConfigManager;
+using Xamarin.Essentials;
+
+
 namespace PlantDetective
 {
     [Activity(Label = "@string/app_name", MainLauncher = true)]
@@ -8,8 +12,12 @@ namespace PlantDetective
         protected override void OnCreate(Bundle? savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
+            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
+            // Load your application
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
+            //string targetDirectory = "D:\\Programming Files\\PlantDetective\\PlantDetective";
+            //Directory.SetCurrentDirectory(targetDirectory);
             ActionBar!.Hide();
             upDesign = (ImageView)FindViewById(Resource.Id.upperDesign)!;
             upDesign.Rotation = 2000;

@@ -5,6 +5,25 @@
     android:layout_height="match_parent"
     android:background="#F9F9F9">
 
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="1800px"
+        android:contentDescription="@Picture"
+        android:id="@+id/picture"
+        />
+
+    <Button
+        android:layout_width="400px"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="1820px"
+        android:text="IDENTIFY"
+        android:textSize="15sp"
+        android:background="#427E3B"
+        android:textColor="@android:color/black"
+        android:id="@+id/identify"
+        />
+
     <TextView
         android:layout_width="1000px"
         android:layout_height="160px"
