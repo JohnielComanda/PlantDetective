@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F9F9F9">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/upperDesign"
+            android:contentDescription="@Upper Design"
+            android:id="@+id/upperDesign"
+            />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/lowerDesign"
+            android:contentDescription="@Lower Design"
+            android:id="@+id/lowerDesign"
+            android:layout_marginTop="1500px"
+            android:layout_marginLeft="630px"
+            />
+
+        <Button
+            android:layout_width="500px"
+            android:layout_height="150px"
+            android:background="#427E3B"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="100px"
+            android:layout_marginTop="1200px"
+            android:text="START"
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:id="@+id/start"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Plant Detective"
+            android:textSize="30sp"
+            android:textColor="@android:color/black"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="700px"
+        />
+
+        <TextView
+            android:layout_width="550px"
+            android:layout_height="500px"
+            android:text="Discover the secrets of nature, one plant at a time."
+            android:textSize="20sp"
+            android:textColor="@android:color/black"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="900px"
+        />
+
+
+</RelativeLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PlantDetective</name>
+    </assembly>
+    <members>
+        <member name="T:PlantDetective.MLModel1.ModelInput">
+            <summary>
+            model input class for MLModel1.
+            </summary>
+        </member>
+        <member name="T:PlantDetective.MLModel1.ModelOutput">
+            <summary>
+            model output class for MLModel1.
+            </summary>
+        </member>
+        <member name="M:PlantDetective.MLModel1.Predict(PlantDetective.MLModel1.ModelInput)">
+            <summary>
+            Use this method to predict on <see cref="T:PlantDetective.MLModel1.ModelInput"/>.
+            </summary>
+            <param name="input">model input.</param>
+            <returns><seealso cref="T:PlantDetective.MLModel1.ModelOutput"/></returns>
+        </member>
+        <member name="M:PlantDetective.MLModel1.RetrainPipeline(Microsoft.ML.MLContext,Microsoft.ML.IDataView)">
+            <summary>
+            Retrains model using the pipeline generated as part of the training process. For more information on how to load data, see aka.ms/loaddata.
+            </summary>
+            <param name="mlContext"></param>
+            <param name="trainData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PlantDetective.MLModel1.BuildPipeline(Microsoft.ML.MLContext)">
+            <summary>
+            build the pipeline that is used from model builder. Use this function to retrain model.
+            </summary>
+            <param name="mlContext"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,29 @@
+adaptive-icon;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon.xml
+adaptive-icon;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+background;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon.xml
+background;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+Button;obj\Debug\net7.0-android\res\layout\activity_main.xml
+Button;obj\Debug\net7.0-android\res\layout\takepicturepage.xml
+cache-path;D:\Programming Files\PlantDetective\PlantDetective\obj\Debug\net7.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\net7.0-android\res\values\ic_launcher_background.xml
+EditText;obj\Debug\net7.0-android\res\layout\homepage.xml
+external-cache-path;D:\Programming Files\PlantDetective\PlantDetective\obj\Debug\net7.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Programming Files\PlantDetective\PlantDetective\obj\Debug\net7.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon.xml
+foreground;obj\Debug\net7.0-android\res\mipmap-anydpi-v26\appicon_round.xml
+ImageView;obj\Debug\net7.0-android\res\layout\activity_main.xml
+ImageView;obj\Debug\net7.0-android\res\layout\displayinformation.xml
+ImageView;obj\Debug\net7.0-android\res\layout\homepage.xml
+ImageView;obj\Debug\net7.0-android\res\layout\takepicturepage.xml
+paths;D:\Programming Files\PlantDetective\PlantDetective\obj\Debug\net7.0-android\lp\9\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+RelativeLayout;obj\Debug\net7.0-android\res\layout\activity_main.xml
+RelativeLayout;obj\Debug\net7.0-android\res\layout\displayinformation.xml
+RelativeLayout;obj\Debug\net7.0-android\res\layout\homepage.xml
+RelativeLayout;obj\Debug\net7.0-android\res\layout\takepicturepage.xml
+resources;obj\Debug\net7.0-android\res\values\ic_launcher_background.xml
+resources;obj\Debug\net7.0-android\res\values\strings.xml
+string;obj\Debug\net7.0-android\res\values\strings.xml
+TextView;obj\Debug\net7.0-android\res\layout\activity_main.xml
+TextView;obj\Debug\net7.0-android\res\layout\displayinformation.xml
+TextView;obj\Debug\net7.0-android\res\layout\homepage.xml
+TextView;obj\Debug\net7.0-android\res\layout\takepicturepage.xml
